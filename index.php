@@ -72,7 +72,7 @@ and open the template in the editor.
             
         </div>
         
-        <div id="iniciar-sesion" class="ocultar">
+        <div id="iniciar-sesion" class="">
                                    
             <form action="" method="POST">
                 
